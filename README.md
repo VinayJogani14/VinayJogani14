@@ -10,7 +10,7 @@ Vinay Jogani
 
 💬 Feel free to ask me about how I plan to merge my love for technology with my passion for solving real-world problems.
 
-📫 You can reach me at jogani.v@northeastern.edu.
+📫 You can reach me at jogani.v@northeastern.edu
 
 👨‍💻 My person portfolio https://joganivinay.wixsite.com/website
 
