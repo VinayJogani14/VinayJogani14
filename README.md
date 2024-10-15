@@ -14,7 +14,7 @@ Vinay Jogani
 
 👨‍💻 My person portfolio https://joganivinay.wixsite.com/website
 
-📄 My resume  https://e4ace130-7adb-46e0-8246-2a9ee1004da9.filesusr.com/ugd/327f52_fa12d0a72e744af08b152bc5ad29c8d1.pdf
+📄 My resume : https://e4ace130-7adb-46e0-8246-2a9ee1004da9.filesusr.com/ugd/327f52_4069f5cb116840bfbf1b827841f5a174.pdf
 
 😄 Pronouns: He/Him
 
