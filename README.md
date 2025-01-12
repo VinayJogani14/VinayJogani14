@@ -1,22 +1,26 @@
-Vinay Jogani
+🔭 **Pursuing:** Master of Science in Information Systems at **Northeastern University, Boston** (Expected: August 2025). My coursework focuses on **Advanced Data Science & Architecture**, **Parallel Machine Learning & AI**, and **LLM with Knowledge Graphs**.
 
-🔭 I’m currently pursuing a Master of Science in Information Systems at Northeastern University, Boston.
+🌱 **Passionate Learner:** I'm actively exploring **Data Science**, **Machine Learning**, and **Deep Learning**, with special interest in their applications in the **medical** and **financial** sectors.
 
-🌱 I’m deeply immersed in learning Data Science, Machine Learning, Deep Learning, and exploring their applications in the medical and finance fields.
+👯 **Open to Collaborations:** Eager to contribute to impactful projects related to **Machine Learning**, **Deep Learning**, and **AI Research**. Currently delving into **explainable AI** and **adversarial training** to improve interpretability and robustness of medical AI systems.
 
-👯 I’m looking to collaborate on projects related to Data Science, Machine Learning, and Deep Learning.
+🏢 **Current Roles:**
+- **Research Trainee at Brigham and Women’s Hospital**: Focus on analyzing clinical trial data using **NLP** and understanding the financial implications of clinical announcements.
+- **Research Assistant at Amal Labs, Northeastern University**: Working on **cancer detection models**, employing **deep learning** for accurate segmentation and classification.
 
-🏢 I’m currently working as a Research Trainee at Brigham and Women's Hospital and also serve as a Research Assistant at Amal Labs, Northeastern University.
+👨‍💻 **Technical Skills:** Proficient in **Python**, **TensorFlow**, **PyTorch**, **Keras**, **Scikit-learn**, **AWS**, and **SQL/NoSQL databases**. Experienced in **building trading models**, **automating processes with UiPath**, and **conducting meta-analyses** of clinical trials.
 
-💬 Feel free to ask me about how I plan to merge my love for technology with my passion for solving real-world problems.
+📄 **Publications & Projects:**
+- Analysis of Explainable AI Methods on Medical Image Classification : (https://ieeexplore.ieee.org/document/10118312)
+- Adversarial Attacks and Defense's for Skin Cancer Classification: https://ieeexplore.ieee.org/document/10080537)
+- Deep Reinforcement Learning Algorithm: https://github.com/VinayJogani14/Deep-Reinforcement-Learning-Algorithm)
+- Algorithmic Insider Trading Detection: https://github.com/VinayJogani14/Algorithmic-Insider-Trading-Detector/tree/main)
 
-📫 You can reach me at jogani.v@northeastern.edu
+💬 **Ask Me About:** Merging my passion for technology with real-world problem-solving, from **medical imaging** to **financial anomaly detection**.
 
-👨‍💻 My person portfolio https://joganivinay.wixsite.com/website
+📫 **Reach Me:** [jogani.v@northeastern.edu](mailto:jogani.v@northeastern.edu)  
+👨‍💻 **Portfolio:** [joganivinay.wixsite.com/website](https://joganivinay.wixsite.com/website)  
+💻 **GitHub:** [VinayJogani14](https://github.com/VinayJogani14)  
+🔗 **LinkedIn:** [Vinay Jogani](https://www.linkedin.com/in/vinayjogani/)
 
-📄 My resume : https://e4ace130-7adb-46e0-8246-2a9ee1004da9.filesusr.com/ugd/327f52_4069f5cb116840bfbf1b827841f5a174.pdf
-
-😄 Pronouns: He/Him
-
-⚡ Fun fact: Whether I’m tuning models or catching the latest cricket match, I’m a machine learning enthusiast and data science pro who races through data like an F1 driver on a mission!
-
+⚡ **Fun Fact:** I thrive on solving **complex puzzles**—be it in **data** or on the **cricket pitch**. Racing through datasets with the precision of an F1 driver!
