@@ -1,5 +1,7 @@
 ## Vinay Jogani
 
+📄 **Resume:** [Resume](https://e4ace130-7adb-46e0-8246-2a9ee1004da9.filesusr.com/ugd/327f52_4069f5cb116840bfbf1b827841f5a174.pdf)
+
 🔭 **Pursuing:** Master of Science in Information Systems at **Northeastern University, Boston** (Expected: August 2025). My coursework focuses on **Advanced Data Science & Architecture**, **Parallel Machine Learning & AI**, and **LLM with Knowledge Graphs**.
 
 🌱 **Passionate Learner:** I'm actively exploring **Data Science**, **Machine Learning**, and **Deep Learning**, with special interest in their applications in the **healthcare** and **finance** sectors.
@@ -20,7 +22,6 @@
 
 💬 **Ask Me About:** Merging my passion for technology with real-world problem-solving, from **medical imaging** to **financial anomaly detection**.
 
-📄 **Resume:** [Resume](https://e4ace130-7adb-46e0-8246-2a9ee1004da9.filesusr.com/ugd/327f52_4069f5cb116840bfbf1b827841f5a174.pdf)
 📫 **Reach Me:** [jogani.v@northeastern.edu](mailto:jogani.v@northeastern.edu)  
 👨‍💻 **Portfolio:** [joganivinay.wixsite.com/website](https://joganivinay.wixsite.com/website)  
 💻 **GitHub:** [VinayJogani14](https://github.com/VinayJogani14)  
