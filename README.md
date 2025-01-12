@@ -1,20 +1,22 @@
+##Vinay Jogani
+
 🔭 **Pursuing:** Master of Science in Information Systems at **Northeastern University, Boston** (Expected: August 2025). My coursework focuses on **Advanced Data Science & Architecture**, **Parallel Machine Learning & AI**, and **LLM with Knowledge Graphs**.
 
-🌱 **Passionate Learner:** I'm actively exploring **Data Science**, **Machine Learning**, and **Deep Learning**, with special interest in their applications in the **medical** and **financial** sectors.
+🌱 **Passionate Learner:** I'm actively exploring **Data Science**, **Machine Learning**, and **Deep Learning**, with special interest in their applications in the **healthcare** and **finance** sectors.
 
-👯 **Open to Collaborations:** Eager to contribute to impactful projects related to **Machine Learning**, **Deep Learning**, and **AI Research**. Currently delving into **explainable AI** and **adversarial training** to improve interpretability and robustness of medical AI systems.
+👯 **Open to Collaborations:** Looking to collaborate on impactful projects in **healthcare** and **finance**, focusing on **data-driven solutions** to improve decision-making, detect anomalies, and enhance predictive analytics.
 
-🏢 **Current Roles:**
-- **Research Trainee at Brigham and Women’s Hospital**: Focus on analyzing clinical trial data using **NLP** and understanding the financial implications of clinical announcements.
-- **Research Assistant at Amal Labs, Northeastern University**: Working on **cancer detection models**, employing **deep learning** for accurate segmentation and classification.
+🏢 **Recent Experience:**
+- **Research Assistant at Amal Labs, Northeastern University (June 2024 - Present)**: Working on **cancer detection models**, employing **deep learning** for accurate segmentation and classification.
+- **Research Trainee at Brigham and Women's Hospital (August 2024 - December 2024)**: Conducted **meta-analyses of clinical trial data** using **NLP**, exploring correlations between **clinical outcomes and financial market behavior**.
 
 👨‍💻 **Technical Skills:** Proficient in **Python**, **TensorFlow**, **PyTorch**, **Keras**, **Scikit-learn**, **AWS**, and **SQL/NoSQL databases**. Experienced in **building trading models**, **automating processes with UiPath**, and **conducting meta-analyses** of clinical trials.
 
 📄 **Publications & Projects:**
-- Analysis of Explainable AI Methods on Medical Image Classification : (https://ieeexplore.ieee.org/document/10118312)
-- Adversarial Attacks and Defense's for Skin Cancer Classification: https://ieeexplore.ieee.org/document/10080537)
-- Deep Reinforcement Learning Algorithm: https://github.com/VinayJogani14/Deep-Reinforcement-Learning-Algorithm)
-- Algorithmic Insider Trading Detection: https://github.com/VinayJogani14/Algorithmic-Insider-Trading-Detector/tree/main)
+- [Analysis of Explainable AI Methods on Medical Image Classification](https://ieeexplore.ieee.org/document/10118312)
+- [Adversarial Attacks and Defense's for Skin Cancer Classification](https://ieeexplore.ieee.org/document/10080537)
+- [Deep Reinforcement Learning Algorithm](https://github.com/VinayJogani14/Deep-Reinforcement-Learning-Algorithm)
+- [Algorithmic Insider Trading Detection](https://github.com/VinayJogani14/Algorithmic-Insider-Trading-Detector/tree/main)
 
 💬 **Ask Me About:** Merging my passion for technology with real-world problem-solving, from **medical imaging** to **financial anomaly detection**.
 
