@@ -12,7 +12,7 @@
 - **Research Assistant at Amal Labs, Northeastern University (June 2024 - Present)**: Working on **cancer detection models**, employing **deep learning** for accurate segmentation and classification.
 - **Research Trainee at Brigham and Women's Hospital (August 2024 - December 2024)**: Conducted **meta-analyses of clinical trial data** using **NLP**, exploring correlations between **clinical outcomes and financial market behavior**.
 
-👨‍💻 **Technical Skills:** Proficient in **Python**, **TensorFlow**, **PyTorch**, **Scikit-learn**, **NLP (spaCy, NLTK)**, **Computer Vision (OpenCV)**, **Explainable AI (SHAP, Grad-CAM)**.
+👨‍💻 **Technical Skills:** Proficient in Python, R, SQL, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Tableau, Power BI, AWS, Machine Learning (Supervised, Unsupervised, Reinforcement Learning), NLP, Computer Vision, Financial Modeling.
 
 📄 **Publications & Projects:**
 - [Analysis of Explainable AI Methods on Medical Image Classification](https://ieeexplore.ieee.org/document/10118312)
