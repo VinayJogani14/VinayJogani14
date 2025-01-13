@@ -1,6 +1,6 @@
 ## Vinay Jogani
 
-📄 **Resume:** [Resume](https://e4ace130-7adb-46e0-8246-2a9ee1004da9.filesusr.com/ugd/327f52_4069f5cb116840bfbf1b827841f5a174.pdf)
+📄 **Resume:** [Resume](https://e4ace130-7adb-46e0-8246-2a9ee1004da9.filesusr.com/ugd/327f52_e47dad6e42cb4d6c973ef04520e10801.pdf)
 
 🔭 **Pursuing:** Master of Science in Information Systems at **Northeastern University, Boston** (Expected: August 2025). My coursework focuses on **Advanced Data Science & Architecture**, **Parallel Machine Learning & AI**, and **LLM with Knowledge Graphs**.
 
