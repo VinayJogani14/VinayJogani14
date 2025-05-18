@@ -4,7 +4,7 @@
 
 ### About Me
 
-I am a software engineer and graduate student at Northeastern University pursuing a Master of Science in Information Systems, where I specialize in building scalable machine learning systems with real-world applications in **healthcare** and **finance**.
+I am a graduate student at Northeastern University pursuing a Master of Science in Information Systems, where I specialize in building scalable machine learning systems with real-world applications in **healthcare** and **finance**.
 
 **Education:**  
 - **Northeastern University, Boston, MA** – Master of Science in Information Systems (Anticipated Aug 2025).  
@@ -32,41 +32,22 @@ With a strong academic foundation in data science, I bring hands-on expertise in
 
 ### Technical Skills
 
-**Programming & Scripting:**  
-Python, R, SQL, C++, Java, JavaScript, MATLAB, Bash, HTML/CSS
-
-**Machine Learning & AI:**  
-Supervised/Unsupervised Learning, Deep Learning, Transfer Learning, Reinforcement Learning, NLP, Computer Vision, Generative Modeling, Explainable AI, Adversarial ML
-
-**Python Libraries & Tools:**  
-TensorFlow, PyTorch, Keras, Scikit-learn, NumPy, Pandas, SciPy, statsmodels, XGBoost, LightGBM, BERT, spaCy, NLTK, PyMC, yFinance, Stable-Baselines3, CVXPY
-
-**MLOps & Deployment:**  
-Docker, FastAPI, Flask, MLflow, Weights & Biases, GitHub Actions, Jenkins, Model Monitoring, Streamlit
-
-**Cloud Platforms & DevOps:**  
-AWS (EC2, S3, Lambda, SageMaker), GCP, Azure, Git, CI/CD, Containerization, Version Control
-
-**Big Data & Distributed Systems:**  
-Apache Spark, Hadoop, Kafka, Dask, Ray
-
-**Databases & Data Engineering:**  
-MySQL, PostgreSQL, MongoDB, Neo4j, SQLite, ETL Pipelines, Data Warehousing, Airflow, dbt, Data Modeling
-
-**Quantitative & Financial Modeling:**  
-Portfolio Construction, Time-Series Modeling (ARIMA, GARCH, HMM), Monte Carlo Simulation, Stochastic Modeling, VaR, CVA, Yield Curves, Option Greeks, Sharpe/Sortino Ratios
-
-**Statistics & Experimentation:**  
-Statistical Analysis, A/B Testing, Hypothesis Testing, Feature Engineering, Causal Inference, Experimental Design
-
-**Visualization & BI Tools:**  
-Tableau, Power BI, Plotly, Matplotlib, Seaborn, Dash, Data Storytelling, Interactive Dashboards
-
-**Automation & Workflow Tools:**  
-UiPath RPA, Selenium, BeautifulSoup, Process Automation, Workflow Optimization
-
-**Software Engineering Practices:**  
-Agile/Scrum, Jira, Git, System Design, Unit Testing (PyTest, JUnit), API Development (REST), Web Scraping
+- **Programming & Platforms:** Python, C++, Java, R, JavaScript, MATLAB, Linux, Windows, MacOS  
+- **Machine Learning & AI:** Supervised & Unsupervised Learning, Computer Vision, NLP, Transfer Learning, Explainable AI  
+- **Deep Learning & Advanced ML:** Reinforcement Learning, Adversarial Training, Model Optimization, Distributed Training  
+- **Python Libraries & Tools:** TensorFlow, PyTorch, Keras, Scikit-learn, NumPy, Pandas, SciPy, statsmodels, Stable-Baselines3, OpenAI Gym, Gymnasium, XGBoost, LightGBM, BERT, NLTK, spaCy, PyMC, yFinance, CVXPY  
+- **Data Science & Analytics:** Statistical Analysis, Time Series Forecasting, Feature Engineering, Causal Inference, A/B Testing, Hypothesis Testing, Experimental Design, Monte Carlo Simulations  
+- **Quantitative & Financial Modeling:** Portfolio Construction, Risk-Adjusted Metrics (Sharpe, Sortino, Alpha, Beta), Option Greeks, Time Series Modeling (ARIMA, GARCH), Yield Curves, VaR, CVA, Stochastic Modeling, Optimization (CVXPY, nloptr, SciPy)  
+- **Data Engineering & Databases:** ETL Pipelines, Data Warehousing, MySQL, MongoDB, Neo4j, Database Design  
+- **Big Data & Distributed Systems:** Apache Spark, Hadoop, Dask  
+- **Cloud Platforms:** AWS (EC2, S3, Lambda)  
+- **MLOps & Model Serving:** MLflow, Weights & Biases, Docker, FastAPI, Flask, Model Monitoring  
+- **APIs & Web Technologies:** REST APIs, Web Scraping (BeautifulSoup, Selenium), JSON, XML  
+- **Visualization & BI:** Power BI, Tableau, Plotly, Matplotlib, Seaborn, Dashboarding, Data Storytelling, Interactive Visualizations  
+- **Software Engineering Practices:** Agile Methodology, Scrum, Unit Testing (PyTest), Design Patterns, System Design, Version Control (Git)  
+- **Automation & Workflow:** UiPath RPA, Process Automation, Workflow Optimization, Performance Monitoring  
+- **Project & Program Management:** Agile/Scrum, Jira, Roadmapping, Requirements Gathering, Stakeholder Communication, Cross-functional Team Collaboration  
+- **Domain Expertise:** Financial Modeling, Healthcare Analytics, Security Systems, Anomaly Detection, Cybersecurity  
 
 ---
 
@@ -99,7 +80,7 @@ I thrive on solving **complex puzzles**—be it in **data** or on the **cricket 
 
 ### Contact Me
 
-- **Email:** jogani.v@northeastern.edu  
+- **Email:** joganivinay@gmail.com 
 - **Portfolio:** [joganivinay.wixsite.com/website](https://joganivinay.wixsite.com/website)  
 - **GitHub:** [github.com/VinayJogani14](https://github.com/VinayJogani14)  
 - **LinkedIn:** [linkedin.com/in/vinayjogani](https://www.linkedin.com/in/vinayjogani/)  
