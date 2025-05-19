@@ -1,6 +1,6 @@
 # VINAY JOGANI
 
-**Resume:** [View Resume (PDF)](https://e4ace130-7adb-46e0-8246-2a9ee1004da9.filesusr.com/ugd/327f52_e47dad6e42cb4d6c973ef04520e10801.pdf)
+**Resume:** [View Resume (PDF)](https://e4ace130-7adb-46e0-8246-2a9ee1004da9.filesusr.com/ugd/327f52_723e93cc33f347ff8b7d04cd833f1a36.pdf)
 
 ### About Me
 
