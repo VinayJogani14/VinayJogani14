@@ -4,7 +4,7 @@
 
 Recent MS in Information Systems graduate (Northeastern University, August 2025) specializing in building production ML and data systems. I bridge research and production: 3 IEEE publications on explainable AI and adversarial robustness, plus real-world engineering experience building scalable data pipelines and MLOps infrastructure.
 
-**Resume:** [View Resume (PDF)](https://e4ace130-7adb-46e0-8246-2a9ee1004da9.filesusr.com/ugd/327f52_8510e73f5c2247f5b69af0a5f59c2d23.pdf)
+**Resume:** [View Resume (PDF)](https://e4ace130-7adb-46e0-8246-2a9ee1004da9.filesusr.com/ugd/327f52_7cc2686bb80149b98723efaee83bd777.pdf)
 
 ---
 
