@@ -1,89 +1,105 @@
 # VINAY JOGANI
 
+**Data Engineer | ML/AI & Production MLOps | Healthcare AI & Quantitative Finance**
+
+Recent MS in Information Systems graduate (Northeastern University, August 2025) specializing in building production ML and data systems. I bridge research and production: 3 IEEE publications on explainable AI and adversarial robustness, plus real-world engineering experience building scalable data pipelines and MLOps infrastructure.
+
 **Resume:** [View Resume (PDF)](https://e4ace130-7adb-46e0-8246-2a9ee1004da9.filesusr.com/ugd/327f52_8510e73f5c2247f5b69af0a5f59c2d23.pdf)
 
-### About Me
+---
 
-I am a graduate student at Northeastern University pursuing a Master of Science in Information Systems, where I specialize in building scalable machine learning systems with real-world applications in **healthcare** and **finance**.
+## About Me
 
-**Education:**  
-- **Northeastern University, Boston, MA** – Master of Science in Information Systems (Anticipated Aug 2025).  
-  *Coursework:* Advanced Data Science & Architecture, Parallel Machine Learning & AI, LLM with Knowledge Graph Databases, Natural Language Engineering, AI Generative Modeling with focus in Finance  
-- **Veermata Jijabai Technological Institute, Mumbai, India** – Bachelor of Technology in Information Technology (Graduated June 2023).  
-  *Coursework:* Data Structures and Algorithms, Linear Algebra, Discrete Mathematics, Artificial Intelligence, Machine Learning, Data Architecture
+I am a data and machine learning professional with expertise spanning the full data lifecycle, from engineering scalable pipelines and databases to building production ML systems and delivering actionable analytics. I hold a Master of Science in Information Systems from Northeastern University (August 2025) and a Bachelor of Technology in Information Technology from Veermata Jijabai Technological Institute.
 
-With a strong academic foundation in data science, I bring hands-on expertise in designing ML pipelines, developing scalable infrastructure, and delivering data-driven insights. My background in research and engineering equips me to work on complex problems involving medical diagnostics, financial modeling, and intelligent automation.
+My experience bridges research and production environments. At Brigham and Women's Hospital and Northeastern's Amal Lab, I developed deep learning models for medical image classification, processed large-scale multi-omics datasets using distributed computing (Spark, Dask), and built NLP pipelines analyzing clinical trials data. On the production side, I've architected real-time streaming platforms with Kafka/Spark, microservices APIs with FastAPI, and MLOps infrastructure (Docker, Kubernetes, CI/CD) with comprehensive observability.
 
 ---
 
-### Current Roles
+## Education
 
-**Research Assistant, Amal Lab, Northeastern University (June 2024 – Present)**  
-- Designing and deploying deep learning models for early colorectal cancer detection using CNNs on medical imaging datasets  
-- Implemented parallel training and distributed computing techniques that reduced training time by 40% without compromising model accuracy  
-- Built automated segmentation pipelines to enhance diagnostic precision and reproducibility in biomedical image analysis  
+**Northeastern University, Boston, MA**  
+Master of Science in Information Systems (August 2025)  
+*Focused Coursework:* Advanced Data Science & Architecture, Parallel Machine Learning & AI, LLM with Knowledge Graph Databases, Natural Language Engineering, AI Generative Modeling with focus in Finance
+
+**Veermata Jijabai Technological Institute, Mumbai, India**  
+Bachelor of Technology in Information Technology (June 2023)  
+*Focused Coursework:* Data Structures and Algorithms, Linear Algebra, Discrete Mathematics, Artificial Intelligence, Machine Learning, Data Architecture, Network Security, Big Data Analysis
+
+---
+
+## Research & Professional Experience
+
+**Research Assistant, Amal Lab, Northeastern University (June 2024 – August 2025)**  
+- Engineered Med-SAM medical image segmentation system for multi-modal datasets (MRI, CT, histopathology) with automated preprocessing pipelines and custom data loaders
+- Architected scalable big data infrastructure processing large-scale TCGA multi-omics datasets using distributed computing frameworks
+- Developed production-ready deep learning classification system for skin cancer detection through comparative analysis of state-of-the-art architectures with ensemble learning
 
 **Research Trainee, Brigham and Women's Hospital (August 2024 – December 2024)**  
-- Conducted NLP-based analysis of over 10,000 clinical trial news reports, correlating trial phases with financial market reactions  
-- Built real-time clinical trial analytics pipelines combining ClinicalTrials.gov and PubMed metadata with financial datasets  
-- Investigated insider trading patterns and trading volume shifts using statistical models and time-series analysis post Phase 2/3 clinical announcements  
+- Architected comprehensive meta-analysis framework processing ClinicalTrials.gov and PubMed databases using machine learning algorithms
+- Engineered clinical trial news analytics pipeline analyzing pharmaceutical reports using transformer-based NLP models (BERT, RoBERTa) and sentiment analysis
+- Developed quantitative finance modeling system analyzing market microstructure impacts of clinical trial announcements using time-series econometric analysis
+
+**Software Engineer, HCL Technologies (June 2022 – July 2022)**  
+- Architected enterprise-grade RPA automation system using UiPath Studio integrating web scraping algorithms and API orchestration
+- Engineered intelligent document processing solution leveraging OCR technologies for structured PDF invoice processing
 
 ---
 
-### Technical Skills
+## Technical Skills
 
-- **Programming & Platforms:** Python, C++, Java, R, JavaScript, MATLAB, Linux, Windows, MacOS  
-- **Machine Learning & AI:** Supervised & Unsupervised Learning, Computer Vision, NLP, Transfer Learning, Explainable AI  
-- **Deep Learning & Advanced ML:** Reinforcement Learning, Adversarial Training, Model Optimization, Distributed Training  
-- **Python Libraries & Tools:** TensorFlow, PyTorch, Keras, Scikit-learn, NumPy, Pandas, SciPy, statsmodels, Stable-Baselines3, OpenAI Gym, Gymnasium, XGBoost, LightGBM, BERT, NLTK, spaCy, PyMC, yFinance, CVXPY  
-- **Data Science & Analytics:** Statistical Analysis, Time Series Forecasting, Feature Engineering, Causal Inference, A/B Testing, Hypothesis Testing, Experimental Design, Monte Carlo Simulations  
-- **Quantitative & Financial Modeling:** Portfolio Construction, Risk-Adjusted Metrics (Sharpe, Sortino, Alpha, Beta), Option Greeks, Time Series Modeling (ARIMA, GARCH), Yield Curves, VaR, CVA, Stochastic Modeling, Optimization (CVXPY, nloptr, SciPy)  
-- **Data Engineering & Databases:** ETL Pipelines, Data Warehousing, MySQL, MongoDB, Neo4j, Database Design  
-- **Big Data & Distributed Systems:** Apache Spark, Hadoop, Dask  
-- **Cloud Platforms:** AWS (EC2, S3, Lambda)  
-- **MLOps & Model Serving:** MLflow, Weights & Biases, Docker, FastAPI, Flask, Model Monitoring  
-- **APIs & Web Technologies:** REST APIs, Web Scraping (BeautifulSoup, Selenium), JSON, XML  
-- **Visualization & BI:** Power BI, Tableau, Plotly, Matplotlib, Seaborn, Dashboarding, Data Storytelling, Interactive Visualizations  
-- **Software Engineering Practices:** Agile Methodology, Scrum, Unit Testing (PyTest), Design Patterns, System Design, Version Control (Git)  
-- **Automation & Workflow:** UiPath RPA, Process Automation, Workflow Optimization, Performance Monitoring  
-- **Project & Program Management:** Agile/Scrum, Jira, Roadmapping, Requirements Gathering, Stakeholder Communication, Cross-functional Team Collaboration  
-- **Domain Expertise:** Financial Modeling, Healthcare Analytics, Security Systems, Anomaly Detection, Cybersecurity  
+**Programming Languages:** Python, SQL, C++, Java, R, JavaScript, MATLAB, Cypher
 
----
+**Machine Learning & AI:** TensorFlow, PyTorch, Keras, Scikit-learn, XGBoost, LightGBM, Stable-Baselines3, OpenAI Gym, Supervised Learning, Unsupervised Learning, Transfer Learning, Reinforcement Learning, Ensemble Methods, Hyperparameter Optimization
 
-### Publications
+**Deep Learning:** CNN, LSTM, GRU, ResNet, DenseNet, EfficientNet, VGG, Vision Transformers, DQN, PPO, Distributed Data Parallel, Multi-GPU Training
 
-- [**Analysis of Explainable AI Methods on Medical Image Classification**](https://ieeexplore.ieee.org/document/10118312)  
-- [**Adversarial Attacks and Defenses for Skin Cancer Classification**](https://ieeexplore.ieee.org/document/10080537)  
-- [**Intrusion Detection: A Deep Learning Approach**](https://arxiv.org/abs/2306.07601)  
-- [**Image Captioning Using Transformer: VisionAid**](https://www.irjet.net/archives/V9/i10/IRJET-V9I1087.pdf)  
+**Natural Language Processing:** BERT, RoBERTa, Transformers (Hugging Face), NLTK, spaCy, CodeT5, VADER, TextBlob, Named Entity Recognition
+
+**Computer Vision:** OpenCV, torchvision, scikit-image, Grad-CAM, Image Segmentation, Object Detection
+
+**Data Science & Analytics:** NumPy, Pandas, SciPy, statsmodels, Statistical Analysis, A/B Testing, Hypothesis Testing, Time Series Forecasting, Feature Engineering, PCA, t-SNE, UMAP, Causal Inference, Monte Carlo Simulations
+
+**Data Engineering & ETL:** Apache Spark, PySpark, Apache Kafka, Apache Airflow, dbt, Hadoop, Dask, ETL/ELT Pipelines, Stream Processing, Batch Processing, Data Orchestration, Great Expectations, Medallion Architecture
+
+**Databases:** PostgreSQL, MySQL, MongoDB, Neo4j, SQLite, Snowflake, BigQuery, Redis, SQLAlchemy, FAISS
+
+**Cloud Platforms:** AWS (EC2, S3, Lambda), GCP (BigQuery, GCS, Cloud Pub/Sub)
+
+**MLOps & Production:** MLflow, Docker, Kubernetes, Docker Compose, CI/CD, GitHub Actions, Model Monitoring, Model Versioning, Prometheus, Grafana, Terraform
+
+**Software Engineering:** FastAPI, Flask, REST APIs, Microservices, Git, pytest, Unit Testing, Integration Testing, Async/Await, Agile/Scrum, Jira
+
+**Quantitative Finance:** Portfolio Optimization, Options Pricing, Risk Metrics (Sharpe, VaR), Time Series Modeling (ARIMA, GARCH), yFinance, Bloomberg API
 
 ---
 
-### Passionate Learner
+## Publications
 
-I'm actively exploring **Data Science**, **Machine Learning**, and **Deep Learning**, with special interest in their applications in the **healthcare** and **finance** sectors.
-
-### Open to Collaborations
-
-Looking to collaborate on impactful projects in **healthcare** and **finance**, focusing on **data-driven solutions** to improve decision-making, detect anomalies, and enhance predictive analytics.
-
-### Ask Me About
-
-Merging my passion for technology with real-world problem-solving, from **medical imaging** to **financial anomaly detection**.
-
-### Fun Fact
-
-I thrive on solving **complex puzzles**—be it in **data** or on the **cricket pitch**. Racing through datasets with the precision of an F1 driver!
+- [Analysis of Explainable AI Methods on Medical Image Classification](https://ieeexplore.ieee.org/document/10118312) - IEEE ICAECT 2023
+- [Adversarial Attacks and Defenses for Skin Cancer Classification](https://ieeexplore.ieee.org/document/10080537) - IEEE ICONAT 2023
+- [Intrusion Detection: A Deep Learning Approach](https://arxiv.org/abs/2306.07601) - IEEE ICEEICT 2023
+- [Image Captioning Using Transformer: VisionAid](https://www.irjet.net/archives/V9/i10/IRJET-V9I1087.pdf) - IRJET
 
 ---
 
-### Contact Me
+## What Makes Me Different
 
-- **Email:** joganivinay@gmail.com 
-- **Portfolio:** [joganivinay.wixsite.com/website](https://joganivinay.wixsite.com/website)  
-- **GitHub:** [github.com/VinayJogani14](https://github.com/VinayJogani14)  
-- **LinkedIn:** [linkedin.com/in/vinayjogani](https://www.linkedin.com/in/vinayjogani/)  
-- **Google Scholar:** [scholar.google.com](https://scholar.google.com/citations?hl=en&user=Xnowpo4AAAAJ)  
-- **Scopus ID:** [scopus.com](https://www.scopus.com/authid/detail.uri?authorId=58030923600)  
-- **ORCiD:** [orcid.org/0009-0005-9568-5747](https://orcid.org/0009-0005-9568-5747)
+I don't just build models, I build the entire infrastructure around them. From ETL pipelines and feature stores to model deployment and monitoring. I've published research AND shipped production code. I understand both the math and the engineering.
+
+---
+
+## Currently Seeking
+
+ML Engineer, Data Engineer, or Quantitative Developer roles where I can build impactful systems at the intersection of data, ML, and production software.
+
+---
+
+## Contact
+
+- **Email:** joganivinay@gmail.com
+- **Portfolio:** [joganivinay.wixsite.com/website](https://joganivinay.wixsite.com/website)
+- **LinkedIn:** [linkedin.com/in/vinayjogani](https://www.linkedin.com/in/vinayjogani/)
+- **Google Scholar:** [View Profile](https://scholar.google.com/citations?hl=en&user=Xnowpo4AAAAJ)
+- **Scopus ID:** [58030923600](https://www.scopus.com/authid/detail.uri?authorId=58030923600)
+- **ORCiD:** [0009-0005-9568-5747](https://orcid.org/0009-0005-9568-5747)
