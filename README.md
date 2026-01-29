@@ -30,12 +30,12 @@ Bachelor of Technology in Information Technology (June 2023)
 
 ## Research & Professional Experience
 
-**Research Assistant, Amal Lab, Northeastern University (June 2024 – August 2025)**  
+**AI/ML Research Assistant, Amal Lab, Northeastern University (June 2024 – August 2025)**  
 - Engineered Med-SAM medical image segmentation system for multi-modal datasets (MRI, CT, histopathology) with automated preprocessing pipelines and custom data loaders
 - Architected scalable big data infrastructure processing large-scale TCGA multi-omics datasets using distributed computing frameworks
 - Developed production-ready deep learning classification system for skin cancer detection through comparative analysis of state-of-the-art architectures with ensemble learning
 
-**Research Trainee, Brigham and Women's Hospital (August 2024 – December 2024)**  
+**Research Data Scientist, Brigham and Women's Hospital (August 2024 – December 2024)**  
 - Architected comprehensive meta-analysis framework processing ClinicalTrials.gov and PubMed databases using machine learning algorithms
 - Engineered clinical trial news analytics pipeline analyzing pharmaceutical reports using transformer-based NLP models (BERT, RoBERTa) and sentiment analysis
 - Developed quantitative finance modeling system analyzing market microstructure impacts of clinical trial announcements using time-series econometric analysis
