@@ -4,7 +4,7 @@
 
 Recent MS in Information Systems graduate (Northeastern University, August 2025) specializing in building production ML and data systems. I bridge research and production: 3 IEEE publications on explainable AI and adversarial robustness, plus real-world engineering experience building scalable data pipelines and MLOps infrastructure.
 
-**Resume:** [View Resume (PDF)](https://e4ace130-7adb-46e0-8246-2a9ee1004da9.filesusr.com/ugd/327f52_5731a7c98f994e078daa782afbce38c0.pdf)
+**Resume:** [View Resume (PDF)](https://vinayjogani14.github.io/Vinay%20Jogani_Resume.pdf)
 
 ---
 
@@ -98,8 +98,9 @@ ML Engineer, Data Engineer, or Quantitative Developer roles where I can build im
 ## Contact
 
 - **Email:** joganivinay@gmail.com
-- **Portfolio:** [joganivinay.wixsite.com/website](https://joganivinay.wixsite.com/website)
+- **Portfolio:** [joganivinay.wixsite.com/website](https://vinayjogani14.github.io)
 - **LinkedIn:** [linkedin.com/in/vinayjogani](https://www.linkedin.com/in/vinayjogani/)
 - **Google Scholar:** [View Profile](https://scholar.google.com/citations?hl=en&user=Xnowpo4AAAAJ)
 - **Scopus ID:** [58030923600](https://www.scopus.com/authid/detail.uri?authorId=58030923600)
 - **ORCiD:** [0009-0005-9568-5747](https://orcid.org/0009-0005-9568-5747)
+
