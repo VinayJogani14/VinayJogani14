@@ -98,7 +98,7 @@ ML Engineer, Data Engineer, or Quantitative Developer roles where I can build im
 ## Contact
 
 - **Email:** joganivinay@gmail.com
-- **Portfolio:** [joganivinay.wixsite.com/website](https://vinayjogani14.github.io)
+- **Portfolio:** [https://vinayjogani14.github.io/](https://vinayjogani14.github.io)
 - **LinkedIn:** [linkedin.com/in/vinayjogani](https://www.linkedin.com/in/vinayjogani/)
 - **Google Scholar:** [View Profile](https://scholar.google.com/citations?hl=en&user=Xnowpo4AAAAJ)
 - **Scopus ID:** [58030923600](https://www.scopus.com/authid/detail.uri?authorId=58030923600)
