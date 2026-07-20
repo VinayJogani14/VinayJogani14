@@ -1,8 +1,8 @@
 # VINAY JOGANI
 
-**Data Engineer | ML/AI & Production MLOps | Healthcare AI & Quantitative Finance**
+**Machine Learning Engineer | Real-Time Voice AI & Agentic Systems | LLM Engineering, MLOps & Data Infrastructure**
 
-Recent MS in Information Systems graduate (Northeastern University, August 2025) specializing in building production ML and data systems. I bridge research and production: 3 IEEE publications on explainable AI and adversarial robustness, plus real-world engineering experience building scalable data pipelines and MLOps infrastructure.
+Machine Learning Engineer at RSK IT International, building real-time voice agents running in production at drive-thrus, toll booths, and parking lots. MS in Information Systems, Northeastern University (August 2025). I bridge research and production: 4 peer-reviewed publications on explainable AI and adversarial robustness, open-source AI infrastructure on PyPI and npm, and production systems from streaming audio pipelines to agentic LLM workflows.
 
 **Resume:** [View Resume (PDF)](https://vinayjogani14.github.io/Vinay%20Jogani_Resume.pdf)
 
@@ -10,67 +10,81 @@ Recent MS in Information Systems graduate (Northeastern University, August 2025)
 
 ## About Me
 
-I am a data and machine learning professional with expertise spanning the full data lifecycle, from engineering scalable pipelines and databases to building production ML systems and delivering actionable analytics. I hold a Master of Science in Information Systems from Northeastern University (August 2025) and a Bachelor of Technology in Information Technology from Veermata Jijabai Technological Institute.
+I build ML systems that survive contact with production. Right now that means real-time voice AI at RSK IT International: streaming audio pipelines with 80-120 ms chunking, VAD and directed-speech gating, ASR/NLU integration, and intent routing into POS, tolling, and gate-control systems, holding end-to-end turn times under ~500 ms across 3 live sites, deployed on-prem and in hybrid edge/cloud setups for 3 production customers and 2 POCs.
 
-My experience bridges research and production environments. At Brigham and Women's Hospital and Northeastern's Amal Lab, I developed deep learning models for medical image classification, processed large-scale multi-omics datasets using distributed computing (Spark, Dask), and built NLP pipelines analyzing clinical trials data. On the production side, I've architected real-time streaming platforms with Kafka/Spark, microservices APIs with FastAPI, and MLOps infrastructure (Docker, Kubernetes, CI/CD) with comprehensive observability.
+Alongside that, I design and ship open-source AI infrastructure focused on making LLM and agentic systems reliable: evals, guardrails, and observability. Earlier, I did AI research at Northeastern's Amal Lab (medical image segmentation, 18TB+ multi-omics processing, multi-GPU training) and clinical data science at Brigham and Women's Hospital (transformer NLP over 10,000+ pharma reports, market microstructure analysis).
+
+---
+
+## Open-Source AI Infrastructure
+
+| Project | What it does |
+|---|---|
+| [**tracewall**](https://github.com/VinayJogani14/tracewall) | Flight recorder + firewall for AI coding agents: records every tool call, tracks lethal-trifecta taint, blocks prompt-injection exfiltration. Zero dependencies, on PyPI. |
+| [**spareloop**](https://github.com/VinayJogani14/spareloop) | Scheduler + optimizer for AI coding CLIs (Claude Code, Codex, Cursor): learns your usage rhythm, queues work into spare capacity, prewarms your usage window. On npm. |
+| [**whichmodel**](https://github.com/VinayJogani14/whichmodel) | Describe your task, get one AI model recommendation backed by benchmarks and real developer sentiment. Zero-dependency, CI-validated dataset. |
+
+## Featured Projects
+
+| Project | Highlights |
+|---|---|
+| [Bank Reconciliation Agent](https://github.com/VinayJogani14/bank-recon-agent) | Production agentic pipeline (Claude tool calling + rules): 90.6% accuracy / 92.5% F1 on a golden eval suite, invariants, traces, replay |
+| [Agentic RAG for 10-K Analysis](https://github.com/VinayJogani14/fireworks-rag-agent) | ReAct agent routing SQL + semantic search, 89% accuracy graded by LLM-as-a-judge |
+| [Healthcare Data Pipeline](https://github.com/VinayJogani14/Healthcare-Data-Pipeline) | 10M+ patient records: Kafka + Spark Streaming, dbt medallion (31 models), Great Expectations, Terraform, Prometheus/Grafana |
+| [Skin Cancer Classification at Scale](https://github.com/VinayJogani14/Skin-Cancer-Classification-Using-High-Parallel-Machine-Learning) | 91.8% across 35 conditions on 245K images; 3.37x training speedup via PyTorch DDP on 4x A100 + AMP |
+| [NBA Injury Prediction System](https://github.com/VinayJogani14/NBA-Injury-Prediction-System) | Full MLOps: FastAPI at sub-100ms p95, 1000+ RPS, MLflow, Prometheus/Grafana, K8s |
+| [BankNifty Vectorized Backtester](https://github.com/VinayJogani14/BankNifty-Strangle-Backtest) | 10.3M rows of 1-minute options data processed in under 8 seconds, zero loops |
+
+---
+
+## Experience
+
+**Machine Learning Engineer, RSK IT International (September 2025 – Present)**
+- Engineered low-latency streaming audio pipelines for drive-thru, toll-booth, and parking-lot voice agents across 3 live sites (80-120 ms chunking, VAD/directed-speech gating, ASR, intent routing), holding end-to-end turn times under ~500 ms
+- Architected and deployed serving topologies for 3 production customers and 2 POCs across on-prem edge and hybrid edge/cloud, with containerized ASR/NLU microservices and gRPC/WebRTC streaming
+- Built a RAG-based post-sales QA helper over ~75 internal runbooks and a three-agent ticket-routing layer, cutting misrouted tickets and cross-team handoffs
+
+**AI/ML Research Assistant, Amal Lab, Northeastern University (June 2024 – August 2025)**
+- Engineered Med-SAM medical image segmentation for multi-modal datasets (MRI, CT, histopathology) with fine-tuned transformer architectures
+- Processed 18TB+ TCGA multi-omics data on Spark and Dask for biomarker discovery across 33+ cancer types
+- Trained a production skin-cancer classifier to 97.28% accuracy with ensembles and external validation across 3 datasets
+
+**Research Data Scientist, Brigham and Women's Hospital (August 2024 – December 2024)**
+- Built transformer-based NLP analytics (BERT, RoBERTa) over 10,000+ pharmaceutical reports linking media sentiment to regulatory outcomes
+- Designed a HIPAA-compliant meta-analysis framework across ClinicalTrials.gov and PubMed with statistical modeling
 
 ---
 
 ## Education
 
-**Northeastern University, Boston, MA**  
-Master of Science in Information Systems (August 2025)  
+**Northeastern University, Boston, MA**
+Master of Science in Information Systems (August 2025)
 *Focused Coursework:* Advanced Data Science & Architecture, Parallel Machine Learning & AI, LLM with Knowledge Graph Databases, Natural Language Engineering, AI Generative Modeling with focus in Finance
 
-**Veermata Jijabai Technological Institute, Mumbai, India**  
-Bachelor of Technology in Information Technology (June 2023)  
-*Focused Coursework:* Data Structures and Algorithms, Linear Algebra, Discrete Mathematics, Artificial Intelligence, Machine Learning, Data Architecture, Network Security, Big Data Analysis
-
----
-
-## Research & Professional Experience
-
-**AI/ML Research Assistant, Amal Lab, Northeastern University (June 2024 – August 2025)**  
-- Engineered Med-SAM medical image segmentation system for multi-modal datasets (MRI, CT, histopathology) with automated preprocessing pipelines and custom data loaders
-- Architected scalable big data infrastructure processing large-scale TCGA multi-omics datasets using distributed computing frameworks
-- Developed production-ready deep learning classification system for skin cancer detection through comparative analysis of state-of-the-art architectures with ensemble learning
-
-**Research Data Scientist, Brigham and Women's Hospital (August 2024 – December 2024)**  
-- Architected comprehensive meta-analysis framework processing ClinicalTrials.gov and PubMed databases using machine learning algorithms
-- Engineered clinical trial news analytics pipeline analyzing pharmaceutical reports using transformer-based NLP models (BERT, RoBERTa) and sentiment analysis
-- Developed quantitative finance modeling system analyzing market microstructure impacts of clinical trial announcements using time-series econometric analysis
-
-**Software Engineer, HCL Technologies (June 2022 – July 2022)**  
-- Architected enterprise-grade RPA automation system using UiPath Studio integrating web scraping algorithms and API orchestration
-- Engineered intelligent document processing solution leveraging OCR technologies for structured PDF invoice processing
+**Veermata Jijabai Technological Institute, Mumbai, India**
+Bachelor of Technology in Information Technology (June 2023)
 
 ---
 
 ## Technical Skills
 
-**Programming Languages:** Python, SQL, C++, Java, R, JavaScript, MATLAB, Cypher
+**Programming:** Python, SQL, C++, TypeScript, Java, R, JavaScript, MATLAB, Cypher
 
-**Machine Learning & AI:** TensorFlow, PyTorch, Keras, Scikit-learn, XGBoost, LightGBM, Stable-Baselines3, OpenAI Gym, Supervised Learning, Unsupervised Learning, Transfer Learning, Reinforcement Learning, Ensemble Methods, Hyperparameter Optimization
+**LLM & Agentic AI:** Claude API (tool calling, MCP), GPT-4o, LangChain, RAG, FAISS, ChromaDB, Sentence Transformers, CLIP, Prompt Engineering, LLM-as-a-Judge Evaluation, Agent Orchestration, Evals & Guardrails
 
-**Deep Learning:** CNN, LSTM, GRU, ResNet, DenseNet, EfficientNet, VGG, Vision Transformers, DQN, PPO, Distributed Data Parallel, Multi-GPU Training
+**Voice & Real-Time Systems:** ASR/NLU Integration, Voice Activity Detection, gRPC/WebRTC Streaming, Real-Time Audio Chunking, Session State Machines, On-Prem/Edge/Hybrid Deployment
 
-**Natural Language Processing:** BERT, RoBERTa, Transformers (Hugging Face), NLTK, spaCy, CodeT5, VADER, TextBlob, Named Entity Recognition
+**Machine Learning & Deep Learning:** PyTorch, TensorFlow, Keras, Scikit-learn, XGBoost, LightGBM, CNN, Vision Transformers, GANs, Reinforcement Learning (PPO, DQN), Distributed Data Parallel, Multi-GPU Training, Optuna
 
-**Computer Vision:** OpenCV, torchvision, scikit-image, Grad-CAM, Image Segmentation, Object Detection
+**Data Engineering:** Apache Spark, PySpark, Kafka, Airflow, dbt, Dask, Stream Processing, ETL/ELT, Great Expectations, Medallion Architecture
 
-**Data Science & Analytics:** NumPy, Pandas, SciPy, statsmodels, Statistical Analysis, A/B Testing, Hypothesis Testing, Time Series Forecasting, Feature Engineering, PCA, t-SNE, UMAP, Causal Inference, Monte Carlo Simulations
+**Databases & Cloud:** PostgreSQL, MySQL, MongoDB, Neo4j, Snowflake, BigQuery, Redis, Supabase, AWS (EC2, S3, Lambda), GCP (BigQuery, GCS, Pub/Sub)
 
-**Data Engineering & ETL:** Apache Spark, PySpark, Apache Kafka, Apache Airflow, dbt, Hadoop, Dask, ETL/ELT Pipelines, Stream Processing, Batch Processing, Data Orchestration, Great Expectations, Medallion Architecture
+**MLOps & Production:** Docker, Kubernetes, MLflow, CI/CD, GitHub Actions, Model Monitoring, Prometheus, Grafana, Terraform, FastAPI, gRPC, Package Publishing (PyPI, npm)
 
-**Databases:** PostgreSQL, MySQL, MongoDB, Neo4j, SQLite, Snowflake, BigQuery, Redis, SQLAlchemy, FAISS
+**Statistics & Experimentation:** A/B Testing, Bayesian Inference, Sequential Testing, Multi-Armed Bandits, Causal Inference, Time Series (ARIMA, GARCH), Monte Carlo
 
-**Cloud Platforms:** AWS (EC2, S3, Lambda), GCP (BigQuery, GCS, Cloud Pub/Sub)
-
-**MLOps & Production:** MLflow, Docker, Kubernetes, Docker Compose, CI/CD, GitHub Actions, Model Monitoring, Model Versioning, Prometheus, Grafana, Terraform
-
-**Software Engineering:** FastAPI, Flask, REST APIs, Microservices, Git, pytest, Unit Testing, Integration Testing, Async/Await, Agile/Scrum, Jira
-
-**Quantitative Finance:** Portfolio Optimization, Options Pricing, Risk Metrics (Sharpe, VaR), Time Series Modeling (ARIMA, GARCH), yFinance, Bloomberg API
+**Quantitative Finance:** Options Pricing (Black-Scholes, Heston, Monte Carlo), Portfolio Optimization, Vectorized Backtesting, Statistical Arbitrage, VaR/Expected Shortfall
 
 ---
 
@@ -79,19 +93,13 @@ Bachelor of Technology in Information Technology (June 2023)
 - [Analysis of Explainable AI Methods on Medical Image Classification](https://ieeexplore.ieee.org/document/10118312) - IEEE ICAECT 2023
 - [Adversarial Attacks and Defenses for Skin Cancer Classification](https://ieeexplore.ieee.org/document/10080537) - IEEE ICONAT 2023
 - [Intrusion Detection: A Deep Learning Approach](https://arxiv.org/abs/2306.07601) - IEEE ICEEICT 2023
-- [Image Captioning Using Transformer: VisionAid](https://www.irjet.net/archives/V9/i10/IRJET-V9I1087.pdf) - IRJET
+- [Image Captioning Using Transformer: VisionAid](https://www.irjet.net/archives/V9/i10/IRJET-V9I1087.pdf) - IRJET 2022
 
 ---
 
 ## What Makes Me Different
 
-I don't just build models, I build the entire infrastructure around them. From ETL pipelines and feature stores to model deployment and monitoring. I've published research AND shipped production code. I understand both the math and the engineering.
-
----
-
-## Currently Seeking
-
-ML Engineer, Data Engineer, or Quantitative Developer roles where I can build impactful systems at the intersection of data, ML, and production software.
+I don't just build models, I build the entire system around them: streaming ingestion, serving, evals, monitoring, and the deployment that makes it real. I've published research AND shipped production code that paying customers run every day. I understand both the math and the engineering.
 
 ---
 
@@ -100,7 +108,7 @@ ML Engineer, Data Engineer, or Quantitative Developer roles where I can build im
 - **Email:** joganivinay@gmail.com
 - **Portfolio:** [https://vinayjogani14.github.io/](https://vinayjogani14.github.io)
 - **LinkedIn:** [linkedin.com/in/vinayjogani](https://www.linkedin.com/in/vinayjogani/)
+- **X:** [@jogani_vinay](https://x.com/jogani_vinay)
 - **Google Scholar:** [View Profile](https://scholar.google.com/citations?hl=en&user=Xnowpo4AAAAJ)
 - **Scopus ID:** [58030923600](https://www.scopus.com/authid/detail.uri?authorId=58030923600)
 - **ORCiD:** [0009-0005-9568-5747](https://orcid.org/0009-0005-9568-5747)
-
