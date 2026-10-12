@@ -1,8 +1,8 @@
 # VINAY JOGANI
 
-**Machine Learning Engineer | Real-Time Voice AI & Agentic Systems | LLM Engineering, MLOps & Data Infrastructure**
+**Software Development Engineer at Amazon | ML & Agentic AI Systems | LLM Engineering, MLOps & Data Infrastructure**
 
-Machine Learning Engineer at RSK IT International, building real-time voice agents running in production at drive-thrus, toll booths, and parking lots. MS in Information Systems, Northeastern University (August 2025). I bridge research and production: 4 peer-reviewed publications on explainable AI and adversarial robustness, open-source AI infrastructure on PyPI and npm, and production systems from streaming audio pipelines to agentic LLM workflows.
+Software Development Engineer at Amazon (Devices & Services), based in Irvine, CA. Previously a Machine Learning Engineer at RSK IT International, building real-time voice agents running in production at drive-thrus, toll booths, and parking lots. MS in Information Systems, Northeastern University (August 2025). I bridge research and production: 4 peer-reviewed publications on explainable AI and adversarial robustness, open-source AI infrastructure on PyPI and npm, and production systems from streaming audio pipelines to agentic LLM workflows.
 
 **Resume:** [View Resume (PDF)](https://vinayjogani14.github.io/Vinay%20Jogani_Resume.pdf)
 
@@ -10,9 +10,11 @@ Machine Learning Engineer at RSK IT International, building real-time voice agen
 
 ## About Me
 
-I build ML systems that survive contact with production. Right now that means real-time voice AI at RSK IT International: streaming audio pipelines with 80-120 ms chunking, VAD and directed-speech gating, ASR/NLU integration, and intent routing into POS, tolling, and gate-control systems, holding end-to-end turn times under ~500 ms across 3 live sites, deployed on-prem and in hybrid edge/cloud setups for 3 production customers and 2 POCs.
+I build ML systems that survive contact with production. I'm now a Software Development Engineer at Amazon in the Devices & Services organization.
 
-Alongside that, I design and ship open-source AI infrastructure focused on making LLM and agentic systems reliable: evals, guardrails, and observability. Earlier, I did AI research at Northeastern's Amal Lab (medical image segmentation, 18TB+ multi-omics processing, multi-GPU training) and clinical data science at Brigham and Women's Hospital (transformer NLP over 10,000+ pharma reports, market microstructure analysis).
+Before Amazon, I built real-time voice AI at RSK IT International: streaming audio pipelines with 80-120 ms chunking, VAD and directed-speech gating, ASR/NLU integration, and intent routing into POS, tolling, and gate-control systems, holding end-to-end turn times under ~500 ms across 3 live sites, deployed on-prem and in hybrid edge/cloud setups for 3 production customers and 2 POCs.
+
+I've also designed and shipped open-source AI infrastructure focused on making LLM and agentic systems reliable: evals, guardrails, and observability. Earlier, I did AI research at Northeastern's Amal Lab (medical image segmentation, 18TB+ multi-omics processing, multi-GPU training) and clinical data science at Brigham and Women's Hospital (transformer NLP over 10,000+ pharma reports, market microstructure analysis).
 
 ---
 
@@ -39,7 +41,10 @@ Alongside that, I design and ship open-source AI infrastructure focused on makin
 
 ## Experience
 
-**Machine Learning Engineer, RSK IT International (September 2025 – Present)**
+**Software Development Engineer, Amazon (September 2026 – Present)**
+- Devices & Services organization, Irvine, CA
+
+**Machine Learning Engineer, RSK IT International (September 2025 – August 2026)**
 - Engineered low-latency streaming audio pipelines for drive-thru, toll-booth, and parking-lot voice agents across 3 live sites (80-120 ms chunking, VAD/directed-speech gating, ASR, intent routing), holding end-to-end turn times under ~500 ms
 - Architected and deployed serving topologies for 3 production customers and 2 POCs across on-prem edge and hybrid edge/cloud, with containerized ASR/NLU microservices and gRPC/WebRTC streaming
 - Built a RAG-based post-sales QA helper over ~75 internal runbooks and a three-agent ticket-routing layer, cutting misrouted tickets and cross-team handoffs
